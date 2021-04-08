@@ -1,0 +1,40 @@
+body{
+    background-color: pink;
+}
+h1{
+    font-style:oblique;
+    font-size: 40px;
+    color:rgb(8, 8, 177);
+}
+
+h2{
+    font-family: cursive;
+    color:green;
+    font-size: 29px;
+}
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+h3{
+    font-family: cursive;
+    font-size: 30px;
+    color: rgb(117, 18, 117);
+}
+button {
+    background-color: orange;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 15%;
+    text-align: center;
+    margin-left: 5px;
+    font-size: 20px;
+}
+
+/* set a hover effect for the button*/
+button:hover {
+    opacity: 0.8;
+}
